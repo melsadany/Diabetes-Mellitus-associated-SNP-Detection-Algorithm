@@ -1,0 +1,2 @@
+sqlite3 and building the INSULIN_SNPs.db database using the code attached 
+Please read the README.txt file
